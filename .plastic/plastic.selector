@@ -1,0 +1,4 @@
+repository "survival-game@wechat_os_qy07cw7vtazi-hyppeh-ieb9s@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
